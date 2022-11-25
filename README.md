@@ -1,4 +1,4 @@
-## TRABALHO PRÁTICO N1
+## APS Grafo
 
 Alunos:
 - Victor Dias Klebes. RA 125111350641
